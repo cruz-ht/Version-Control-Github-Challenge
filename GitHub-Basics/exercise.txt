@@ -1,0 +1,38 @@
+1. Explain what the terminal is in your own words
+
+What the Terminal means to me, the Terminal is like the backend of your device,
+It lets you access your system without having to go through multiple applications, 
+updating and removing files and like a one stop shop.
+
+
+2. What is the major difference between Git and GitHub?
+
+The difference between Git and GitHub, Git is the engine itself. Where you, as the 
+developer work on locally through your device, storing any updates and changes within 
+the moment. GitHub is the platform, a place where you can host your Git and establish 
+a backup to the cloud, providing collaboration and an extra copy incase your local git 
+runs into a issue.
+
+3.  What are the steps to fork a GitHub repository?
+
+ The following steps will guide you on how to fork a current GitHub repository, Make sure
+ your Git is authenticated with GitHub before proceeding;
+
+Step 1 )
+On GitHub navigate to the repository you wish to fork
+
+Step 2 )
+Once you opened the repository, In the top-right corner of the page, click fork
+
+Step 3 )
+Under "owner", click the dropdown menu and designate?click an owner for the forked repository
+
+Step 4 ) Type a Name/Title to distinguish your fork and/or what Repository is being used
+
+Optional: you can also add a description field for your fork. You are also able to copy 
+the default branch by itself, if you do not select this option- all other branches will 
+be copied.
+
+Step 5 ) Click Create fork. You have now successfully created a fork !
+
+
